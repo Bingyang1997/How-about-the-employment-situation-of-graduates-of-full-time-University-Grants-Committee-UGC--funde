@@ -4,7 +4,7 @@ UGC (University Grants Committee) indeed provide various student financial assis
 Most graduates from UGC-funded programs choose to have further study between 2009 and 2018. In contrast, there are a lot of underemployed and unemployed graduates, even though they went to college before. Fortunately, there are still quite a few students who have found a full-time job. However, did such an employment situation exist in every university?
   
 The unemployed situation of 8 universities has an increasing trend from 2009/10 to 2016/2017 academic year and then decreasing during 2016/17 and 2017/18.The Chinese University of Hong Kong and The Hong Kong Polytechnic University still hold the big unemployed amount during the period, which sounds different from the public’s impressions. The good university symbolizes a better future and job. In contrast, The Education University of Hong Kong, The University of Hong Kong and Lingnan University have a smaller unemployment amount.
- 
+ ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 (line chart)
  
 (histogram)
